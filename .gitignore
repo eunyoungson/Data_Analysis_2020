@@ -8,6 +8,10 @@ roadapikey.txt
 openweatherkey.txt
 chromedriver.exe
 
+
+kakaomapkey.txt
+
+
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
 
